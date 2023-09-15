@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"version": "0.1.0",
+	"name": "nestjs-react-test",
+	"scripts": {
+		"api": "cd packages/api && yarn start",
+		"web": "cd packages/web && yarn start"
+	}
+}
